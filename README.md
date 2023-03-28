@@ -10,13 +10,13 @@ Hello there! 🫡 I'm a recent graduate from Le Wagon. In 9 weeks I learned the 
         <tr>
           <td>
             <img
-              src="https://github-readme-stats.vercel.app/api?username=margaridarita&show_icons=true&locale=en&theme=radical"
+              src="https://github-readme-stats.vercel.app/api?username=margaridarita&show_icons=true&locale=en&theme=highcontrast"
               alt="GitHub Stats"
             />
           </td>
           <td>
             <img
-              src="https://streak-stats.demolab.com/?user=margaridarita&theme=radical"
+              src="https://streak-stats.demolab.com/?user=margaridarita&theme=highcontrast"
               alt="GitHub Stats"
             />
           </td>
