@@ -1,5 +1,3 @@
-# Hello there 👋
-
 # About Me
 - 😃 Hello there! 🫡 I'm a recent graduate from Le Wagon. In 9 weeks I learned the tech stack below and created a mobile website with a team: public-poll. Currently I'm learning REACT, and also consolidating Ruby and Vanilla JS skills by finishing the rails-yelp-mvp project.
 
